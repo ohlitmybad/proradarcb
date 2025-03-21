@@ -6,12 +6,12 @@
     "percentiles": "Centiles",
     "age": "Âge",
     "passes": "Passes",
-    "fwdPass": "Passes vers l'avant%",
+    "fwdPass": "Passes av.%",
     "progPasses": "Passes prog.",
     "defActions": "Actions déf.",
-    "defDuel": "Duel déf%",
-    "aerial": "Aérien%",
-    "progCarries": "Portées prog.",
+    "defDuel": "Duels déf%",
+    "aerial": "Duels aérien%",
+    "progCarries": "Courses prog.",
     "minutes": "Minutes jouées"
   },
   "radar": {
@@ -19,9 +19,9 @@
     "duel": "Duel%",
     "defActions": "Actions déf",
     "progPasses": "Passes prog",
-    "fwdPass": "Passes vers l'avant%",
+    "fwdPass": "Passes av.%",
     "passes": "Passes",
-    "carrying": "Portée"
+    "carrying": "Courses"
   },
   "similar": {
     "to": "Données similaires à"
